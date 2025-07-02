@@ -1,16 +1,35 @@
-## Hi there 👋
+Marcello Barros
 
-<!--
-**mbarros02/mbarros02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
+📍 4º semestre – Senac SP  
+📅 Idade: 23 anos
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Sobre mim
+
+Atualmente atuo como profissional nas áreas **administrativa, financeira e de TI**, com foco em:
+
+- Elaboração de **relatórios analíticos com Power BI**
+- Participação em **projetos de software**
+- Apoio em **processos administrativos e sistemas**
+
+Estou em constante desenvolvimento técnico, buscando unir minha experiência prática com uma sólida formação acadêmica.
+
+---
+
+### 📚 Cursos em andamento
+
+- 🧠 **Banco de Dados:** modelagem, administração e consultas (SQL)
+- ☕ **Java:** desenvolvimento backend orientado a objetos
+- 🌐 **JavaScript:** backend e frontend
+- ☁️ **Cloud Computing:** AWS Academy & Oracle Cloud Infrastructure
+
+---
+
+### 🚀 Objetivos
+
+Aprimorar minhas habilidades em **desenvolvimento backend**, **análise de dados** e **computação em nuvem**, contribuindo com soluções eficientes e inovadoras para empresas e projetos pessoais.
+
+
+⭐ Explore meus repositórios abaixo para conhecer meus projetos e estudos práticos!
