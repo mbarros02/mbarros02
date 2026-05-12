@@ -1,5 +1,8 @@
-Marcello Barros
+# Marcello Barros
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
-📍 5º semestre – Senac SP  
-📅 Idade: 24 anos
+📊 Data & Automation Enthusiast
+💻 Desenvolvendo projetos com Power BI, SQL, Python, VBA e Java
+⚡ Automação de processos, análise de dados e soluções para negócio
+🎓 Estudante de ADS | Senac SP
+
+🚀 Construindo projetos e evoluindo diariamente em tecnologia, dados e desenvolvimento.
