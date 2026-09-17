@@ -3,11 +3,8 @@
 
 📊 Data & Automation Enthusiast
 
-💻 Desenvolvendo projetos com Power BI, SQL, Python, VBA e Java
+💻 Desenvolvendo projetos com Java, Python, C#, JavaScript, TypeScript, Power BI e VBA.   
 
 ⚡ Automação de processos, análise de dados e soluções para negócio
 
-🎓 Estudante de ADS | Senac SP
-
-
-🚀 Construindo projetos e evoluindo diariamente em tecnologia, dados e desenvolvimento.
+🚀 Construindo projetos e evoluindo diariamente em tecnologia, desenvolvimento e dados.
